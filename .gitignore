@@ -1,0 +1,15 @@
+# build folders
+build/
+bin/
+
+# compiled files
+*.o
+*.out
+*.exe
+
+# logs
+*.log
+
+# editor settings
+.vscode/
+.idea/
